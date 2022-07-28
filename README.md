@@ -53,7 +53,7 @@ module github.com/my/package
 go 1.17
 
 require (
-  github.com/nadhirfr/oy-go v0.0.0-20220728130107-ffefa897263e
+  github.com/nadhirfr/oy-go v1.0.0
 )
 ```
 
